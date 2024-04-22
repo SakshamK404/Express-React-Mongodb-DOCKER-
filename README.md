@@ -1,9 +1,6 @@
 
 ---
 
-In the context of composing a sample application, the utilization of Docker Development Environments is recommended.
-
-[Access Docker Dev Environments here <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-express-mongodb)
 
 ### Description of the Application:
 
